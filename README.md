@@ -1,7 +1,7 @@
 ## <center>Task 3 <br> Temperature Converter</center>
 
 
-- [Click Here to visit site](http://diplomagraduate.ezyro.com/task3/?i=1)
+- [Click Here to visit site](https://onkarkadganchi.github.io/oibsip_task3/)
 
 <hr>
 
